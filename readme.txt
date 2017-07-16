@@ -4,3 +4,4 @@ Git has a mutable index called stage
 Git tracks changes of files
 dyh need delete row
 new push
+电风扇地方
